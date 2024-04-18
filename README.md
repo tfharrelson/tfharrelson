@@ -1,9 +1,8 @@
 ### tfharrelson 👋
 
 I'm currently the scientific computing/ML engineering manager at Emerald Cloud Lab (ECL). I have an alt account (@tommyh-ECL) where I make a lot of contributions to the Symbolic Lab Language at ECL.
-I very much like to think about advanced computing for molecular properties, including traditional physics-based computation and newer ML/AI variants in the same space. For example, calculating
-molecular energies with density functional theory or AI is very much my jam. Same with calculating binding free energies with molecular dynamics or AI. I've also dabbled in quantum computing in 
-my research life, and I believe that offers a promising route for efficient computation of molecular properties once the whole "fault-tolerant" thing is figured out.
+I am very interested in advanced computing for molecular properties, including traditional physics-based computation and newer ML/AI variants in the same space. For example, calculating
+molecular energies or binding free energies with density functional theory/molecular dynamics or AI is very much my jam.
 
 ### Contributions
 - Primary maintainer of [cloudcompchem](https://github.com/cloudlab-cmu/cloudcompchem).
