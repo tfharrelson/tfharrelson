@@ -5,6 +5,12 @@ I very much like to think about advanced computing for molecular properties, inc
 molecular energies with density functional theory or AI is very much my jam. Same with calculating binding free energies with molecular dynamics or AI. I've also dabbled in quantum computing in 
 my research life, and I believe that offers a promising route for efficient computation of molecular properties once the whole "fault-tolerant" thing is figured out.
 
+### Contributions
+- Primary maintainer of [cloudcompchem](https://github.com/cloudlab-cmu/cloudcompchem).
+- Maintainer of pysll package (available on [pypi](https://pypi.org/project/pysll/)).
+
+### About me
+
 🔭 In my spare time, I'm currently working on:
 - Graph databse for molecules using Neo4J
 - Rust molecular dynamics solver that is built for ML/AI forcefields
